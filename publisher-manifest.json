@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9ccee07e6ce7a6959088bfce",
+  "owner": "jaxqghhgjxu",
+  "repo": "page-1060f9d0058b4699a66b4f55",
+  "title": "捷豹(.0)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1060f9d0058b4699a66b4f55",
+      "a": "捷豹(.0)",
+      "b": "机场官网线路发布页",
+      "entity": "捷豹(.0)",
+      "brand": "捷豹(.0)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f049c474d001b1f368d32ed3d557c6b8d3797ecd0ffb9627924a31913f8a77ea",
+      "content": {
+        "primary_entity": "捷豹(.0)",
+        "keyword1": "捷豹(.0)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端：Windows 与 macOS 可用 Clash Verge、Surge，iOS 用 Shadowrocket，Android 用 Clash Meta，路由器用 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再依照客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，配置订阅",
+          "AI_DESCRIPTION": "，捷豹(.0) 提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 到 1000GB 月流量与 3 至 20 台设备。选择时可按常用设备数量与月均流量估算，再参考年付折扣决定周期。",
+          "AI_FAQ_ANSWER_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，均为每月流量额度，按自然月重置。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，同账号可多设备同时在线。",
+          "AI_FAQ_ANSWER_3": "可以。订阅按客户端配置导入，更换设备后移除旧设备配置并添加新设备即可。",
+          "AI_FAQ_ANSWER_4": "年付方案分别为 ¥150、¥350 与 ¥850，相比月付累计可节省数月费用。",
+          "AI_FAQ_ANSWER_5": "先确认设备系统，Windows 与 macOS 可选 Clash 类客户端，iOS 用 Shadowrocket，Android 用 Clash Meta。",
+          "AI_FAQ_INTRO": "订阅安装、设备数量、年付与客户端选择。",
+          "AI_FAQ_QUESTION_1": "每月流量额度是多少？",
+          "AI_FAQ_QUESTION_2": "可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "更换设备后需要重新配置吗？",
+          "AI_FAQ_QUESTION_4": "年付比月付便宜多少？",
+          "AI_FAQ_QUESTION_5": "如何选择适合自己的客户端？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐、设备与周期三个角度说明订阅选择方式。",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度使用，旗舰版 300GB 适合日常流媒体，团队版 1000GB 适合多设备共享。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，可按个人或团队设备数量选择对应档位。",
+          "AI_FEATURE_TEXT_3": "三档均提供按年付方案，年付价格分别为 ¥150、¥350 与 ¥850，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备匹配",
+          "AI_FEATURE_TITLE_3": "周期选择",
+          "AI_GUIDE_INTRO": "按三步完成从选择到使用的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "捷豹(.0) 提供基础版、旗舰版与团队版三档订阅，覆盖不同流量与设备数量需求。可按常用设备数量和月均流量选择套餐，再参考年付价格决定订阅周期。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档流量：100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "设备支持：3 台至 20 台",
+          "AI_HIGHLIGHT_3": "年付价格 ¥150 起",
+          "AI_PLANS_INTRO": "基础版适合轻度用户，旗舰版兼顾流媒体与多设备，团队版面向高流量与多设备场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版与团队版中选择对应档位。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，查看各客户端对订阅格式的支持情况。",
+          "AI_STEP_TEXT_3": "按照所选客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "捷豹(.0) 订阅选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhalkyp.cn",
+    "host": "zhalkyp.cn"
+  },
+  "file_hashes": {
+    "index.html": "965a520c52c1da70932fc7341772fbee6478e6bef9e6f58c608044b4047aa2be",
+    "sitemap.xml": "7a856c559358eda7834830dcfc537426446d6336fee99b680d6d8cbe98c202e1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d86913c8efa99cd8fc21d14d0c127034335596ebc42f69a363def7c3463bab53",
+    "robots.txt": "804315a9f9a69d06795f6006ef19a54585f529aba9806cd4a6c121f2e759534b",
+    "4de8c803b4f99dc4c3cf00a3a5800eaf.txt": "942b329f4ad5ecd3ca1d15218c082fad2dc765e56bd7e3368f0cbf54b527a840"
+  },
+  "revision": "811a40d2335f82df531d0e2086f763cfcfbf570e3c88524b138bd85e287f1aea"
+}

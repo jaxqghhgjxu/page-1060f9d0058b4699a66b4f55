@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhalkyp.cn/sitemap.xml
